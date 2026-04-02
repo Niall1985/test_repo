@@ -10,5 +10,13 @@
   {
     "prompt": "What is reinforcement learning?",
     "expected_keyword": "reward"
+  },
+  {
+    "prompt": "What is the Turing Test?",
+    "expected_keyword": "imitation"
+  },
+  {
+    "prompt": "What is machine learning?",
+    "expected_keyword": "Artifical Intelligence"
   }
 ]

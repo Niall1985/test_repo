@@ -10,5 +10,8 @@ def run_agent(prompt: str):
 
     if "reinforcement" in prompt:
         return "Reinforcement learning learns through rewards."
-
+    if "turing test" in prompt:
+        return "The Turing Test evaluates a machine's ability to exhibit human-like intelligence."
+    if "machine learning" in prompt:
+        return "Machine learning is a subset of AI that enables systems to learn from data."
     return "I do not know."

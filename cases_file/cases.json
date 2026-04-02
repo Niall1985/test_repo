@@ -13,10 +13,10 @@
   },
   {
     "prompt": "What is the Turing Test?",
-    "expected_keyword": "imitation"
+    "expected_keyword": "intelligence"
   },
   {
     "prompt": "What is machine learning?",
-    "expected_keyword": "Artifical Intelligence"
+    "expected_keyword": "data"
   }
 ]

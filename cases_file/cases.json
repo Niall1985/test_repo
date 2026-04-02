@@ -5,7 +5,7 @@
   },
   {
     "prompt": "Explain neural networks",
-    "expected_keyword": "brain"
+    "expected_keyword": "WRONG_KEYWORD"
   },
   {
     "prompt": "What is reinforcement learning?",

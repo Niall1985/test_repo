@@ -1,0 +1,3 @@
+agent_name: SampleAgent
+version: 1.0
+entry: main.py

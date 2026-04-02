@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "What is AI?",
+    "expected_keyword": "intelligence"
+  },
+  {
+    "prompt": "Explain neural networks",
+    "expected_keyword": "brain"
+  },
+  {
+    "prompt": "What is reinforcement learning?",
+    "expected_keyword": "reward"
+  }
+]
